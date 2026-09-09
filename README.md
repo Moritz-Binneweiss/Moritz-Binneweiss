@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Moritz 👋
+# Hello hello, I'm Moritz 👋
 
 **Graduate Software Engineer · B.Sc. Software Engineering · Obersulm, Germany**
 
