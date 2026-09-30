@@ -204,7 +204,7 @@ rest and produces "Could not fetch total commits".
 
 <div align="center">
 
-📫 Best way to reach me: [LinkedIn](https://www.linkedin.com/in/moritz-binnewei%C3%9F-574509286/) · [moritzbinneweiss@gmail.com](mailto:moritzbinneweiss@gmail.com)
+📫 Best way to reach me: [LinkedIn](https://www.linkedin.com/in/moritz-binneweiss/) · [moritzbinneweiss@gmail.com](mailto:moritzbinneweiss@gmail.com)
 
 [![](https://komarev.com/ghpvc/?username=Moritz-Binneweiss&icon=0&color=blue)](https://visitcount.itsvg.in)
 
