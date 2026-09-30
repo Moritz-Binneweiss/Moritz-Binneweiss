@@ -59,6 +59,7 @@ Full-stack web · Cloud · Applied deep learning · Game development · Design, 
 ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=flat-square&logo=reacthookform&logoColor=white)
 ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=flat-square&logo=react%20query&logoColor=white)
 ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=flat-square&logo=mui&logoColor=white)
+![AG Grid](https://img.shields.io/badge/AG%20Grid-181D1F?style=flat-square&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white)
 ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=flat-square&logo=jquery&logoColor=white)
 ![Alpine.js](https://img.shields.io/badge/alpinejs-white.svg?style=flat-square&logo=alpinedotjs&logoColor=%238BC0D0)
@@ -93,9 +94,11 @@ Full-stack web · Cloud · Applied deep learning · Game development · Design, 
 **ML & Data**
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat-square&logo=PyTorch&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
 ![CUDA](https://img.shields.io/badge/cuda-000000.svg?style=flat-square&logo=nVIDIA&logoColor=green)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white)
+![FAISS](https://img.shields.io/badge/FAISS-1877F2?style=flat-square&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat-square&logo=Matplotlib&logoColor=black)
 ![Jupyter](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=flat-square&logo=jupyter&logoColor=white)
 
@@ -154,13 +157,13 @@ Full-stack web · Cloud · Applied deep learning · Game development · Design, 
 
 ## 🚀 Selected projects
 
-| Project                                                                                 | What it is                                                                                                | Stack                  |
-| --------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------- | ---------------------- |
+| Project                                                                                 | What it is                                                                                                                     | Stack                  |
+| --------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------ | ---------------------- |
 | [**Bachelor-Thesis**](https://github.com/Moritz-Binneweiss/Bachelor-Thesis)             | Comparative Evaluation of Deep Learning Paradigms for Automated Humpback Whale Re-Identification via Fluke Pattern Recognition | Python, PyTorch, LaTeX |
-| [**Dyad-Souls**](https://github.com/Moritz-Binneweiss/Dyad-Souls)                       | 3D Co-op Souls-like University Project                                                                    | Unity, C#              |
-| [**Veil-of-Colours**](https://github.com/Moritz-Binneweiss/Veil-of-Colours)             | 2D Co-op Platformer University Project                                                                    | Unity, C#              |
-| [**Space-Escaper**](https://github.com/Moritz-Binneweiss/Space-Escaper)                 | Mobile Endless Runner Arcade Game                                                                         | Unity, C#       |
-| [**application-documents**](https://github.com/Moritz-Binneweiss/application-documents) | RenderCV Setup for my application documents                                                               | RenderCV, YAML         |
+| [**Dyad-Souls**](https://github.com/Moritz-Binneweiss/Dyad-Souls)                       | 3D Co-op Souls-like University Project                                                                                         | Unity, C#              |
+| [**Veil-of-Colours**](https://github.com/Moritz-Binneweiss/Veil-of-Colours)             | 2D Co-op Platformer University Project                                                                                         | Unity, C#              |
+| [**Space-Escaper**](https://github.com/Moritz-Binneweiss/Space-Escaper)                 | Mobile Endless Runner Arcade Game                                                                                              | Unity, C#              |
+| [**application-documents**](https://github.com/Moritz-Binneweiss/application-documents) | RenderCV Setup for my application documents                                                                                    | RenderCV, YAML         |
 
 ---
 
