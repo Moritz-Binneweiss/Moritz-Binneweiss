@@ -6,7 +6,7 @@
 
 Full-stack web · Cloud · Applied deep learning · Game development · Design, Music and Arts
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/moritz-binnewei%C3%9F-574509286/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/moritz-binneweiss/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:moritzbinneweiss@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/moritz.binne)
 [![Spotify](https://img.shields.io/badge/Quirio-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/artist/7EYhgARM6RzNyQdKaQco9G)
@@ -20,8 +20,8 @@ Full-stack web · Cloud · Applied deep learning · Game development · Design, 
 
 - 🎓 **B.Sc. Software Engineering** at Heilbronn University of Applied Sciences (2022 - 2026)
 - 🐋 Bachelor thesis on **automated humpback whale re-identification**: a comparative evaluation of deep learning paradigms (frozen DINOv3, ConvNeXt V2 + ArcFace, fine-tuned DINOv3 + ArcFace, Qwen3-VL) for fluke pattern recognition
-- 💼 One year at **XL2 by Audi & Capgemini** as intern and working student: React/TypeScript frontends and C#/AWS backends for digitalizing manufacturing processes
-- 🎮 Game development since before my studies: co-developed **Space Escaper**, a mobile arcade game published on the Play Store in 2020, plus Unity and Godot projects since
+- 💼 One year at **XL2 by Audi & Capgemini** as intern and working student: React/TypeScript frontends and C#/AWS backends in an agile team for digitalizing manufacturing processes
+- 🎮 Game development since before my studies: co-developed **Space Escaper**, a mobile arcade game published on the Play Store in 2020, plus Unity and Godot projects since. As well as worked as a working student Game Developer at Buntspecht & Rabe Softwaremanufaktur
 - 🎵 I also produce and release music as **[Quirio](https://open.spotify.com/artist/7EYhgARM6RzNyQdKaQco9G)**: design, storytelling and sound are where I recharge
 - 🌍 Erasmus semester at VAMK, Vaasa (Finland) · 🗣️ German (native), English (B2/C1), Spanish (B2), French (B1)
 - 🔎 Open to **junior / graduate roles in the software engineering cosmos**: Germany or international
@@ -156,11 +156,11 @@ Full-stack web · Cloud · Applied deep learning · Game development · Design, 
 
 | Project                                                                                 | What it is                                                                                                | Stack                  |
 | --------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------- | ---------------------- |
-| [**Bachelor-Thesis**](https://github.com/Moritz-Binneweiss/Bachelor-Thesis)             | Comparative evaluation of deep learning paradigms for humpback whale re-identification via fluke patterns | Python, PyTorch, LaTeX |
-| [**Dyad-Souls**](https://github.com/Moritz-Binneweiss/Dyad-Souls)                       | University Unity3D game project                                                                           | Unity, C#              |
-| [**Veil-of-Colours**](https://github.com/Moritz-Binneweiss/Veil-of-Colours)             | University Unity3D game project                                                                           | Unity, C#              |
-| [**Space-Escaper**](https://github.com/Moritz-Binneweiss/Space-Escaper)                 | Mobile arcade game, published on the Play Store in 2020                                                   | Unity, ShaderLab       |
-| [**application-documents**](https://github.com/Moritz-Binneweiss/application-documents) | RenderCV setup that builds my CV from a YAML source                                                       | RenderCV, YAML         |
+| [**Bachelor-Thesis**](https://github.com/Moritz-Binneweiss/Bachelor-Thesis)             | Comparative Evaluation of Deep Learning Paradigms for Automated Humpback Whale Re-Identification via Fluke Pattern Recognition | Python, PyTorch, LaTeX |
+| [**Dyad-Souls**](https://github.com/Moritz-Binneweiss/Dyad-Souls)                       | 3D Co-op Souls-like University Project                                                                    | Unity, C#              |
+| [**Veil-of-Colours**](https://github.com/Moritz-Binneweiss/Veil-of-Colours)             | 2D Co-op Platformer University Project                                                                    | Unity, C#              |
+| [**Space-Escaper**](https://github.com/Moritz-Binneweiss/Space-Escaper)                 | Mobile Endless Runner Arcade Game                                                                         | Unity, C#       |
+| [**application-documents**](https://github.com/Moritz-Binneweiss/application-documents) | RenderCV Setup for my application documents                                                               | RenderCV, YAML         |
 
 ---
 
