@@ -163,7 +163,6 @@ Full-stack web · Cloud · Applied deep learning · Game development · Design, 
 | [**Dyad-Souls**](https://github.com/Moritz-Binneweiss/Dyad-Souls)                       | 3D Co-op Souls-like University Project                                                                                         | Unity, C#              |
 | [**Veil-of-Colours**](https://github.com/Moritz-Binneweiss/Veil-of-Colours)             | 2D Co-op Platformer University Project                                                                                         | Unity, C#              |
 | [**Space-Escaper**](https://github.com/Moritz-Binneweiss/Space-Escaper)                 | Mobile Endless Runner Arcade Game                                                                                              | Unity, C#              |
-| [**application-documents**](https://github.com/Moritz-Binneweiss/application-documents) | RenderCV Setup for my application documents                                                                                    | RenderCV, YAML         |
 
 ---
 
